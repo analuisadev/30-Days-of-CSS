@@ -1,0 +1,57 @@
+/* Reset */ 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif; 
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 165, 124);
+}
+
+/* Button Designer */
+.button {
+    border: 2px solid rgb(0, 165, 124);
+    background: none;
+    color: rgb(0, 165, 124);
+    padding: 20px 40px;
+    font-size: 25px;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.5s;
+    position: relative;
+    overflow: hidden;
+}
+
+.button:hover {
+    color: white;
+}
+
+/* Effects Section */
+
+.button::before {
+    content: "";
+    width: 100%;
+    height: 100%;    
+    background-color: rgb(0, 165, 124);
+    height: 0%;
+    position: absolute;
+    border-radius: 0 0 50% 50%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    transition: all 1s;
+}
+
+.button:hover::before {
+    height: 190%;
+}

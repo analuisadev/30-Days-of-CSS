@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #131219;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 50%; /* posiciona na metade da tela */
+    margin-top: -25px; /* e retrocede metade da altura */
+    left: 50%; /* posiciona na metade da tela */
+    margin-left: -100px;
+}
+
+article {
+    text-align: center;
+    padding: 30px;
+    width: 200px;
+    border-radius: 3px;
+}
+
+
+
+div a article:hover {
+    border: 1px solid white;
+    border-radius: 3px;
+}
