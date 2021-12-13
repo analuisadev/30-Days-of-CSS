@@ -2,7 +2,7 @@
 
 Opa, tudo bem?
 
-No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conhecimentos e habilidades nesta linguagem de estilização, onde todos os dias durante o tempo deste desafio me desafiando cada vez mais para alanvancar a minha carreira como desenvovledora Front-end e assim ter a melhorar continua dos meus códigos.
+No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conhecimentos e habilidades nesta linguagem de estilização, onde todos os dias durante o tempo deste desafio(e com certeza fora dele) me desafiando cada vez mais para alanvancar a minha carreira como desenvovledora Front-end e assim ter a melhorar continua dos meus códigos.
 
 ## Regras 
 
