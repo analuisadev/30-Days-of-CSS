@@ -20,26 +20,26 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 
 ## Desafio dia 01 - Botão do instagram <a name="id01"></a> 
 
-![Screenshot_1](https://user-images.githubusercontent.com/71856519/145891590-eeeb35ea-6f11-458e-9476-bf2ab5d8b917.png)
+* ![Screenshot_1](https://user-images.githubusercontent.com/71856519/145891590-eeeb35ea-6f11-458e-9476-bf2ab5d8b917.png)
 
-[Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day1)
+* [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day1)
 
 
 ## Desafio dia 02 - Botão com efeito hover <a name="id02"></a>
 
 ![1639246610333](https://user-images.githubusercontent.com/71856519/145902301-1d4a5ce2-0105-45fd-a826-07640982b671.gif)
 
-[Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day2)
+* [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day2)
 
-[Post no LinkedIn](https://www.linkedin.com/posts/ana-luisa-_github-css-html-activity-6875498618846011392-3vhl)
+* [Post no LinkedIn](https://www.linkedin.com/posts/ana-luisa-_github-css-html-activity-6875498618846011392-3vhl)
 
 ## Desafio dia 03 - Clone da Netflix: Quem está assistindo? <a name="id03"></a>
 
 ![1639408428938](https://user-images.githubusercontent.com/71856519/145902633-5a432e28-741c-4ab1-b451-ea01ed8b5e79.jpg)
 
-[Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day3)
+* [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day3)
 
-[Post no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6876177333997338624/)
+* [Post no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6876177333997338624/)
 
 ## Desafio dia 04 - Menu Responsivo <a name="id04"></a>
 
@@ -47,4 +47,4 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 
 ![Screenshot_2](https://user-images.githubusercontent.com/71856519/145903015-cbc262c3-ec14-480d-ba59-eae195db0044.png)
 
-[Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day4)
+* [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day4)
