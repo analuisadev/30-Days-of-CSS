@@ -20,7 +20,7 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 
 ## Desafio dia 01 - Botão do instagram <a name="id01"></a> 
 
-* ![Screenshot_1](https://user-images.githubusercontent.com/71856519/145891590-eeeb35ea-6f11-458e-9476-bf2ab5d8b917.png)
+![Screenshot_1](https://user-images.githubusercontent.com/71856519/145891590-eeeb35ea-6f11-458e-9476-bf2ab5d8b917.png)
 
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day1)
 
