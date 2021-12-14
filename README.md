@@ -52,3 +52,10 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day4)
 
 * [Post no LinkedIn](https://www.linkedin.com/posts/ana-luisa-_html-github-trabalho-activity-6876517890087022592-8XZT)
+
+## Desafio dia 05 - NTF Card Preview <a name="id05"></a>
+
+![Screenshot_1](https://user-images.githubusercontent.com/71856519/146084647-80a529ea-8d89-46e1-b22a-bf960180b0bb.png)
+
+* [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day5)
+* [Post no LinkedIn]()
