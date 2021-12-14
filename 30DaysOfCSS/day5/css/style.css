@@ -18,14 +18,15 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;  
+    
 }
 
 .container {
     text-align: center;
     border-radius: 10px;
-    width: 450px;
-    padding: 10px;
-    /*box-shadow: ;*/
+    
+    padding: 15px;
+    /*box-shadow: */
     background-color: hsl(216, 50%, 16%);
 }
 
@@ -42,6 +43,10 @@ body {
     margin-left: 3rem;
 }
 
+.main-content p {
+    width: 90%;
+}
+
 h1 {
     color: hsl(0, 0%, 100%);
     margin-bottom: .4rem;
@@ -54,7 +59,7 @@ h1 {
 
 .info, .info img {
     align-items: center;
-    text-align: center;
+    justify-content: space-between;
     margin-bottom: .4rem;
     display: flex;
     margin-right: 10px;
