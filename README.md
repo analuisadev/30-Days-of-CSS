@@ -16,7 +16,6 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 * [Dia 02: Botão com efeito Hover](#id02)
 * [Dia 03: Clone da Netflix - Quem está assistindo? ](#id03)
 * [Dia 04: Menu Responsivo](#id04)
-* [Dia 05: Componente de cartão de visualização NFT](#id05)
 
 
 ## Desafio dia 01 - Botão do instagram <a name="id01"></a> 
@@ -36,7 +35,8 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 
 ## Desafio dia 03 - Clone da Netflix: Quem está assistindo? <a name="id03"></a>
 
-![1639408428938](https://user-images.githubusercontent.com/71856519/145902633-5a432e28-741c-4ab1-b451-ea01ed8b5e79.jpg)
+![20211214_125759](https://user-images.githubusercontent.com/71856519/146034373-6dff877f-1146-40d1-a85c-9c395c8f5639.gif)
+
 
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day3)
 
