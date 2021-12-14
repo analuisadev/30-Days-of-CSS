@@ -26,7 +26,7 @@ body {
     border-radius: 10px;
     
     padding: 15px;
-    /*box-shadow: */
+    box-shadow: 10px 10px 10px rgb(17, 17, 17) ;
     background-color: hsl(216, 50%, 16%);
 }
 
