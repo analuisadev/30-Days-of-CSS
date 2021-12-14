@@ -81,3 +81,12 @@ hr {
 .creator-icon-info p {
     margin-left: .7rem;
 }
+
+
+@media (max-width: 600px) {
+    .box {
+        margin-top: 7vh;
+        width: 100%;
+        max-width: 500px;
+    }
+}
