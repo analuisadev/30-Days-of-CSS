@@ -17,6 +17,7 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 * [Dia 03: Clone da Netflix - Quem está assistindo? ](#id03)
 * [Dia 04: Menu Responsivo](#id04)
 * [Dia 05: Componente de cartão de visualização NFT](#id05)
+* [Dia 06: Componente de cartão de visualização de 3 colunas](#id06)
 
 
 ## Desafio dia 01 - Botão do instagram <a name="id01"></a> 
