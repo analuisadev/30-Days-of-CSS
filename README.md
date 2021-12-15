@@ -59,4 +59,11 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 ![Screenshot_1](https://user-images.githubusercontent.com/71856519/146084647-80a529ea-8d89-46e1-b22a-bf960180b0bb.png)
 
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day5)
+* [Post no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6876643111565578240/)
+
+## Desafio dia 06 - Componente de cartão de visualização de 3 colunas<a name="id06"></a>
+
+![WhatsApp Image 2021-12-15 at 12 34 21](https://user-images.githubusercontent.com/71856519/146246543-e979248d-a30f-4f5e-acda-584c0c8e6b67.jpeg)
+
+* [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day6)
 * [Post no LinkedIn]()
