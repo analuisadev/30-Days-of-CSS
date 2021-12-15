@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Variables */
+
+:root {
+    --color-BHB: hsl(0, 0%, 95%);
+    --color-paragraphs: hsla(0, 0%, 100%, 0.75);
+    --background-div1: hsl(31, 77%, 52%);
+    --background-div2: hsl(184, 100%, 22%);
+    --background-div3: hsl(179, 100%, 13%);
+}
+
+body {
+    background-color: var(--color-BHB);
+    font-size: 15px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    height: 100vh;
+}
+
+.box {
+    display: flex;
+    position: absolute;
+}
+
+h1 {
+    font-family: 'Big Shoulders Display', Arial, Helvetica, sans-serif;
+    color: var(--color-BHB);
+}
+
+p {
+    font-family: 'Lexend Deca', Arial, Helvetica, sans-serif;
+    color: var(--color-paragraphs);
+}
+
+.div1, .div2, .div3 {
+    max-width: 278px;
+    height: 450px;
+    padding: 42px;
+    position: relative;
+}
+
+
+.div1 {
+    background-color: var(--background-div1);
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.div2 {
+    background-color: var(--background-div2);
+}
+
+.div3 {
+    background-color: var(--background-div3);
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.div1 p, .div2 p, .div3 p {
+    line-height: 1.5rem;
+    margin: 20px 0 20px 0;
+}
+.div1 button , .div2 button, .div3 button {
+    position: absolute;
+  cursor: pointer;
+  text-align: center;
+  display: inline-block;
+  padding: 14px;
+  width: 146px;
+  border-radius: 25px;
+  outline: none;
+  border: 2px solid transparent;
+  font-family: 'Lexend Deca', Arial, Helvetica, sans-serif;
+  transition: all 0.2s ease-in-out;
+  bottom: 42px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.div1 a {
+    color: var(--background-div1);
+}
+
+.div2 a {
+    color: var(--background-div2);
+}
+
+.div3 a {
+    color: var(--background-div3);
+}
+
+
+@media only screen and (max-width: 500px) {
+
+    body {
+        display: flex;
+        width: 100%;
+        overflow: scroll;
+        flex-wrap: wrap;
+      }
+    
+      .container {
+        display: block;
+        padding: 50px 0;
+        flex-direction: column;
+      }
+    
+      .div1 {
+        border-radius: 7px 7px 0 0;
+      }
+    
+      .div3 {
+        border-radius: 0 0 7px 7px;
+      }
+    
+      div p {
+        font-size: 0.77rem;
+      }
+}
