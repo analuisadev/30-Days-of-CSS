@@ -1,13 +1,108 @@
+@import url('https://fonts.googleapis.com/css2? família=Kumbh+Sans:wght@400;700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
-    box-sizing: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --color-header: hsl(229, 23%, 23%);
+    --color-paragraphs: hsl(227, 10%, 46%);
 }
 
 body {
-    background-image: url(/profile-card-component-main/images/bg-pattern-bottom.svg);
-    width: 100%;
     background-color: hsl(185, 75%, 39%);
-    background-position: center;
-    background-repeat: no-repeat;
+    font-family: 'Kumbh Sans', Arial, Helvetica, sans-serif;
+}
+
+body::before {
+    z-index: -1;
+    top: 0;
+    left: 0;
+}
+
+body::after {
+    z-index: -1;
+    top: 100%;
+    left: 100%;
+}
+
+.pattern-top {
+    background-image: url('/profile-card-component-main/images/bg-pattern-top.svg');
+}
+
+.pattern-bottom {
+    background-image: url('/profile-card-component-main/images/bg-pattern-bottom.svg');
+}
+.container {
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.div1 {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-image: url('/profile-card-component-main/images/bg-pattern-card.svg');
+    text-align: center;
+    width: 400px;
+    height: 150px;
+}
+
+.div2 {
+    text-align: center;
+    background-color: white;
+    width: 400px;
+    height: 300px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.div1 h1, .div2 h2 {
+    color: var(--color-header);
+}
+
+.div2 img {
+    margin-top: -30px;
+    margin-bottom: 10px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+
+span {
+    font-weight: normal;
+    margin-left: 5px;
+    color: var(--color-paragraphs);
+}
+
+.div2 h1, .div2 p {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+hr {
+    border: 0.1px solid hsl(0, 0%, 90%);
+    border-left: none;
+    border-bottom: none;
+    border-right: none;
+    margin: 0;
+}
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    position: relative;
+    top: 20%;
+}
+
+
+.footer p {
+    font-weight: 200;
+    font-size: 8.5px;
+    letter-spacing: 2px;
 }
