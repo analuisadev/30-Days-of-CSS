@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+body {
+    background-image: url(/profile-card-component-main/images/bg-pattern-bottom.svg);
+    width: 100%;
+    background-color: hsl(185, 75%, 39%);
+    background-position: center;
+    background-repeat: no-repeat;
+}
