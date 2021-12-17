@@ -89,20 +89,29 @@ hr {
     border-left: none;
     border-bottom: none;
     border-right: none;
-    margin: 0;
+   
 }
-.footer {
+.foot {
+    margin-top: -20px;
     display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items: center;
     position: relative;
     top: 20%;
 }
 
+.number {
+    margin: 10px;
+  }
 
-.footer p {
+.desc {
+    font-size: 12px;
+    font-stretch: wider;
+}
+
+
+.foot p {
     font-weight: 200;
-    font-size: 8.5px;
+    font-size: 12px;
     letter-spacing: 2px;
 }
