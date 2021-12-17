@@ -18,6 +18,7 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 * [Dia 04: Menu Responsivo](#id04)
 * [Dia 05: Componente de cartão de visualização NFT](#id05)
 * [Dia 06: Componente de cartão de visualização de 3 colunas](#id06)
+* [Dia 07: Componente do cartão de perfil](#id07)
 
 
 ## Desafio dia 01 - Botão do instagram <a name="id01"></a> 
@@ -67,3 +68,13 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day6)
 * [Post no LinkedIn]()
+
+
+## Desafio dia 07 - Componente do cartão de perfil<a name="id07"></a>
+
+![Screenshot_8](https://user-images.githubusercontent.com/71856519/146553658-64f65cdf-d116-4518-8b8f-489c34080687.png)
+
+* [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day7)
+* [Post no LinkedIn]()
+
+
