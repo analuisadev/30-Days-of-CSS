@@ -10,13 +10,14 @@ body {
     align-items: center;
     font-family: sans-serif, Arial, Helvetica;
     min-height: 100vh;
+    background-color: #131219;
 }
 
 .c-load {
     animation: is-rotating 1s infinite;
     border: 2px solid #e5e5e5;
     border-radius: 50%;
-    border-top-color: #262626;
+    border-top-color: rgb(117, 117, 248);
     height: 100px;
     width: 100px;
     background-color: transparent;
