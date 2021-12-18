@@ -41,7 +41,6 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 
 ![20211214_125759](https://user-images.githubusercontent.com/71856519/146034373-6dff877f-1146-40d1-a85c-9c395c8f5639.gif)
 
-
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day3)
 
 * [Post no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6876177333997338624/)
@@ -68,7 +67,7 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 ![WhatsApp Image 2021-12-15 at 12 34 21](https://user-images.githubusercontent.com/71856519/146246543-e979248d-a30f-4f5e-acda-584c0c8e6b67.jpeg)
 
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day6)
-* [Post no LinkedIn]()
+* [Post no LinkedIn](https://www.linkedin.com/posts/ana-luisa-_github-html-css-activity-6878111857387859968-l6TL)
 
 
 ## Desafio dia 07 - Componente do cartão de perfil<a name="id07"></a>
