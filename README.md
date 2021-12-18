@@ -20,6 +20,7 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 * [Dia 06: Componente de cartão de visualização de 3 colunas](#id06)
 * [Dia 07: Componente do cartão de perfil](#id07)
 * [Dia 08: Loading Effect](#id08)
+* [Dia 09: Efeito mudança de cor](#id09)
 
 ## Desafio dia 01 - Botão do instagram <a name="id01"></a> 
 
@@ -82,8 +83,11 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 ![20211218_104547](https://user-images.githubusercontent.com/71856519/146643304-c541658a-a727-423f-b2df-38ffd3a90a5c.gif)
 
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day8)
-*  [Post no LinkedIn]()
+* [Post no LinkedIn]()
 
+## Desafio dia 08 - Animation Effect<a name="id09"></a>
 
+![20211218_113532](https://user-images.githubusercontent.com/71856519/146644797-49fe6665-4989-41c1-97a6-b4a2341df83b.gif)
 
-
+* [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day9)
+* [Post no LinkedIn]()
