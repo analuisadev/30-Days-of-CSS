@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: sans-serif, Arial, Helvetica;
+    background-color: #131219;
+}
+
+.button {
+    cursor: pointer;
+    width: 300px;
+    height: 100px;
+    background: greenyellow;
+    transition: width 2s;
+    animation-name: exemple;
+    animation-duration: 10s;
+    border-radius: 10px;
+}
+
+.text {
+    margin-top: 30px;
+    color: white;
+    text-align: center;
+}
+
+
+@keyframes exemple {
+    0% {
+        background-color: greenyellow;
+    }
+    25% {
+        background-color: yellow;
+    }
+    50% {
+        background-color: blueviolet;
+    }
+
+    100% {
+        background-color: aqua;
+    }
+}
