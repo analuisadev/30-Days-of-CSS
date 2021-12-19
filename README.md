@@ -75,7 +75,7 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 ![Screenshot_8](https://user-images.githubusercontent.com/71856519/146553658-64f65cdf-d116-4518-8b8f-489c34080687.png)
 
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day7)
-* [Post no LinkedIn]()
+* [Post no LinkedIn](https://www.linkedin.com/posts/ana-luisa-_github-html-css-activity-6878308783160913920-fwOr)
 
 ## Desafio dia 07 - Loading Effect<a name="id08"></a>
 
