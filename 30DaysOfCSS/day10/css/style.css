@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #fff;
+    font-size: 30px;
+   
+}
+
+h1 {
+    font-family: 'Play', Arial, Helvetica, sans-serif;
+    
+}
+
+span::before {
+    content: '';
+    animation: word-swith 3s infinite;
+}
+
+@keyframes word-swith {
+    0% {
+        content: '💻';
+    }
+
+    25% {
+        content: '🥶';
+    }
+
+    50% {
+        content: '🐭';
+    }
+
+    100% {
+        content: '🛫';
+    }
+}
