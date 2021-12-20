@@ -82,7 +82,7 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 ![20211218_104547](https://user-images.githubusercontent.com/71856519/146643304-c541658a-a727-423f-b2df-38ffd3a90a5c.gif)
 
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day8)
-* [Post no LinkedIn]()
+* [Post no LinkedIn](https://www.linkedin.com/posts/ana-luisa-_css-github-html-activity-6878725349094567937-u_07)
 
 ## Desafio dia 09 - Animation Effect<a name="id09"></a>
 
