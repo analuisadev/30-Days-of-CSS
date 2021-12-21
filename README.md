@@ -90,7 +90,7 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 ![20211218_113532](https://user-images.githubusercontent.com/71856519/146644797-49fe6665-4989-41c1-97a6-b4a2341df83b.gif)
 
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day9)
-* [Post no LinkedIn]()
+* [Post no LinkedIn](https://www.linkedin.com/posts/ana-luisa-_github-animation-html-activity-6879067149709713408-ECDG)
 
 
 ## Desafio dia 10 - Animação de alteração de texto<a name="id10"></a>
