@@ -22,6 +22,7 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 * [Dia 08: Loading Effect](#id08)
 * [Dia 09: Efeito mudança de cor](#id09)
 * [Dia 10: Animação de Alteração de Texto](#id10)
+* [Dia 11: Before and Hove Animation](#id11)
 
 ## Desafio dia 01 - Botão do instagram <a name="id01"></a> 
 
@@ -98,4 +99,12 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 ![20211220_150520](https://user-images.githubusercontent.com/71856519/146812981-b06eb91b-725f-4f8c-9351-b959d6587e0e.gif)
 
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day10)
+* [Post no LinkedIn]()
+
+
+## Desafio dia 11 - Before and Hover Animation<a name="id11"></a>
+
+![20211221_164919](https://user-images.githubusercontent.com/71856519/146989658-c1b16074-6d2f-4104-912d-5144ca8043ab.gif)
+
+* [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day11)
 * [Post no LinkedIn]()
