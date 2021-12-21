@@ -1,0 +1,53 @@
+
+/* Reset */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1a1a1a;
+    height: 100vh;
+    font-family: sans-serif;
+
+}
+
+a {
+    padding: 40px 80px;
+    
+    border: 1px solid #fff;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    overflow: hidden;
+    transition: all 1s;
+    font-size: 40px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+
+a:before { 
+    content: '✔️ Dia 10';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #c1f1c8f6;
+    transition: all .5s;
+    color: rgb(0, 90, 0);
+    transform: translateY(-100%);
+}
+
+a:hover:before {
+    transform: translateY(0);
+}
