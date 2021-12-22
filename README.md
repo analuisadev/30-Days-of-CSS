@@ -99,7 +99,7 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 ![20211220_150520](https://user-images.githubusercontent.com/71856519/146812981-b06eb91b-725f-4f8c-9351-b959d6587e0e.gif)
 
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day10)
-* [Post no LinkedIn]()
+* [Post no LinkedIn](https://www.linkedin.com/posts/ana-luisa-_github-html-css-activity-6879410292699258880-CoHE)
 
 
 ## Desafio dia 11 - Before and Hover Animation<a name="id11"></a>
