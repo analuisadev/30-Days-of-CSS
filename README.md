@@ -131,5 +131,5 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 
 ![Screenshot_8](https://user-images.githubusercontent.com/71856519/147282724-23f838f8-ecc6-4be0-9706-99baaf8c8696.png)
 
-* [Meu Código](https://github.com/analuisadev/Bio)
+* [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day14)
 * [Post no LinkedIn]()
