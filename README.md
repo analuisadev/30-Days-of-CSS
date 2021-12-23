@@ -109,7 +109,7 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 ![20211221_164919](https://user-images.githubusercontent.com/71856519/146989658-c1b16074-6d2f-4104-912d-5144ca8043ab.gif)
 
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day11)
-* [Post no LinkedIn]()
+* [Post no LinkedIn](https://www.linkedin.com/posts/ana-luisa-_github-animation-html-activity-6879781964333793280--pAF)
 
 ## Desafio dia 12 - Título Flutuante<a name="id12"></a>
 
