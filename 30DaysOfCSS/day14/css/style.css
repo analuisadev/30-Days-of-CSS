@@ -1,0 +1,91 @@
+
+/*Standart Font import */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+
+
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    
+    background-color: #131219;
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+}
+
+html {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    height: 100%;
+}
+
+header img {
+    margin: 10px;
+    border-radius: 50%;
+    align-items: center;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+header h1 {
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+}
+
+header p {
+    color: azure;
+    margin-bottom: 20px;
+}
+
+section div {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    max-width: 600px;
+    border-radius: 5px;
+    margin: 10px 0 auto;
+}
+
+section div a {
+    text-decoration: none;
+    color: #fff;
+}
+
+section div article {
+    width: 100%;
+    min-height: 100px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    margin-bottom: 10px;
+    padding: 20px;
+    border: 2px solid #131219;
+}
+
+section div article:hover {
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+section div article h2 {
+    font-size: 1.5rem;
+    font-weight: none;
+}
+
+section div article img {
+    margin-right: 10px;
+}
