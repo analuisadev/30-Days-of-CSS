@@ -25,6 +25,7 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 * [Dia 11: Before and Hove Animation](#id11)
 * [Dia 12: Título Flutuante](#id12)
 * [Dia 13: Coração Pulsante](#id13)
+* [Dia 14: Bio](#id14)
 
 ## Desafio dia 01 - Botão do instagram <a name="id01"></a> 
 
@@ -126,3 +127,9 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 * [Post LinkedIn]()
 
 
+## Desafio dia 14 - Bio<a name="id14"></a>
+
+![Screenshot_8](https://user-images.githubusercontent.com/71856519/147282724-23f838f8-ecc6-4be0-9706-99baaf8c8696.png)
+
+* [Meu Código](https://github.com/analuisadev/Bio)
+* [Post no LinkedIn]()
