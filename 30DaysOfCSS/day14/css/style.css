@@ -11,7 +11,7 @@
 }
 
 body {
-    
+    overflow: hidden;
     background-color: #131219;
     font-family: 'Poppins', Arial, Helvetica, sans-serif;
 }
@@ -20,8 +20,8 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
-    
     height: 100%;
+    width: 100%;
 }
 
 header img {
@@ -70,7 +70,7 @@ section div article {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 500px;
+    width: 600px;
     margin-bottom: 10px;
     padding: 20px;
     border: 2px solid #131219;
@@ -88,4 +88,17 @@ section div article h2 {
 
 section div article img {
     margin-right: 10px;
+}
+/* Responsiveness */
+@media screen and (max-width: 580px) {
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center; 
+        overflow: hidden;
+    }
+    section div article {  
+        max-width: 400px;
+        
+    }
 }
