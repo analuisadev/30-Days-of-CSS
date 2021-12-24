@@ -117,7 +117,7 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 ![20212122_132116](https://user-images.githubusercontent.com/71856519/147123762-14151715-c452-4ba4-8255-51a4aa7dbfe5.gif)
 
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day12)
-* [Post no LinkedIn]()
+* [Post no LinkedIn](https://www.linkedin.com/posts/ana-luisa-_github-animation-frontend-activity-6880085579019677696-9b66)
 
 ## Desafio dia 13 - Coração Pulsante<a name="id13"></a>
 
