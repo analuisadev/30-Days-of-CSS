@@ -133,7 +133,7 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 ![Screenshot_8](https://user-images.githubusercontent.com/71856519/147282724-23f838f8-ecc6-4be0-9706-99baaf8c8696.png)
 
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day14)
-* [Post no LinkedIn]()
+* [Post no LinkedIn](https://www.linkedin.com/posts/ana-luisa-_redessociais-trabalho-html-activity-6880807207156428800-DPIA)
 
 
 ## Desafio dia 15 - Formulário<a name="id15"></a>
