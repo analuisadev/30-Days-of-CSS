@@ -126,6 +126,7 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day13)
 * [Post LinkedIn](https://www.linkedin.com/posts/ana-luisa-_github-css-pesquisas-activity-6880464166373650432-jIVc)
+* [Tutorial](https://codepen.io/bruversfelipe/pen/NmroxL)
 
 
 ## Desafio dia 14 - Bio<a name="id14"></a>
@@ -141,5 +142,5 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 ![Screenshot_9](https://user-images.githubusercontent.com/71856519/147370312-01dee8b0-bc72-45b4-8f89-2450524a9dfc.png)
 
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day15)
-* [Post no LinkedIn]()
+* [Post no LinkedIn](https://www.linkedin.com/posts/ana-luisa-_github-html-css-activity-6881399232025157632-WOOt)
 * [Tutorial](https://www.youtube.com/watch?v=MkXuQ9CcHqU)
