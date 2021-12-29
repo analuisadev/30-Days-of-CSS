@@ -26,7 +26,6 @@ nav ul li {
     display: inline-block;
     justify-content: center;
     flex-direction: row;
-    color: #766F68;
     font-size: 20px;
     margin-right: 1rem;
 }
@@ -36,12 +35,64 @@ nav ul {
 }
 
 nav ul li a {
+    color: #766F68;
    text-decoration: none;
 }
 
 main { 
+    position: absolute;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 80vh;
+}
+
+.content-section {
+    margin-left: 15rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: left;
+}
+
+.content-section h1, p {
+    margin-bottom: 1.5rem;
+}
+
+.content-section h1 {
+    color: #766F68;
+    font-size: 3rem;
+}
+
+.content-section p {
+    text-align: initial;
+    color: #766F68;
+    font-size: 20px;
+}
+.content {
+    width: 100%;
+    max-width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+}
+button {
+    padding: 15px;
+    max-width: 235px;
+    background-color: #D2872C;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+    font-size: 1.4rem;
+    font-weight: 500 ;
+}
+
+img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2.3rem;
+
 }
