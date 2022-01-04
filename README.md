@@ -28,6 +28,7 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 * [Dia 14: Bio](#id14)
 * [Dia 15: Form](#id15)
 * [Dia 16: Amazing Graphics](#id16)
+* [Dia 17: Efeito de Digitação](#id17)
 
 
 ## Desafio dia 01 - Botão do instagram <a name="id01"></a> 
@@ -154,3 +155,12 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day16)
 * [Post no LinkedIn]()
+
+
+## Desafio dia 17 - Efeito de Digitação<a name="id17"></a>
+
+![20220104_121359](https://user-images.githubusercontent.com/71856519/148080725-3862f31b-673e-40ee-bc08-19abd29082cd.gif)
+
+* [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day17)
+* [Post no LinkedIn]()
+
