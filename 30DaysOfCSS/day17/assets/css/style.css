@@ -1,0 +1,51 @@
+/* Reset and importation*/
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #141414;
+    height: 100vh;
+    
+}
+
+.line {
+    font-family: 'Oswald', sans-serif;
+    font-size: 3rem;
+    color: rgba(255, 255, 255, 0.75);
+    border-right: 2px solid white;
+    white-space: nowrap;
+    text-align: center;
+    overflow: hidden;
+}
+
+.typing-Effect {
+    animation: blinkCursor 705ms steps(40) infinite normal, typing 2s steps(40) 1s normal both;
+}
+
+@keyframes blinkCursor {
+    from {
+        border-right: 2px solid white;
+    }
+
+    to { 
+        border-right: transparent;
+    }
+}
+
+@keyframes typing {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 8.5em;
+    }
+}
