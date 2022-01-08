@@ -29,6 +29,7 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 * [Dia 15: Form](#id15)
 * [Dia 16: Amazing Graphics](#id16)
 * [Dia 17: Efeito de Digitação](#id17)
+* [Dia 18: Selfcare Website](#id18)
 
 
 ## Desafio dia 01 - Botão do instagram <a name="id01"></a> 
@@ -164,3 +165,11 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day17)
 * [Post no LinkedIn](https://www.linkedin.com/posts/ana-luisa-_css-html-js-activity-6884438402918363136-cVQt)
 
+
+## Desafio dia 18 - Selfcare Website<a name="id18"></a>
+
+
+![Selfcare-convertido-compactado](https://user-images.githubusercontent.com/71856519/148657475-dc82088a-c4a2-4af6-8dfa-3ebf70911e51.png)
+
+* [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day18/selfcare)
+* [Post no LinkedIn]()
