@@ -172,4 +172,4 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 ![Selfcare-convertido-compactado](https://user-images.githubusercontent.com/71856519/148657475-dc82088a-c4a2-4af6-8dfa-3ebf70911e51.png)
 
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day18/selfcare)
-* [Post no LinkedIn]()
+* [Post no LinkedIn](https://www.linkedin.com/posts/ana-luisa-_github-html-css-activity-6885667895079161856-3ywU)
