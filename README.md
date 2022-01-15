@@ -30,6 +30,7 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 * [Dia 16: Amazing Graphics](#id16)
 * [Dia 17: Efeito de Digitação](#id17)
 * [Dia 18: Selfcare Website](#id18)
+* [Dia 19: Infinite Looping Animation](#id19)
 
 
 ## Desafio dia 01 - Botão do instagram <a name="id01"></a> 
@@ -173,3 +174,11 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day18/selfcare)
 * [Post no LinkedIn](https://www.linkedin.com/posts/ana-luisa-_github-html-css-activity-6885667895079161856-3ywU)
+
+
+## Desafio dia 19 - Infinite Looping Animation<a name="id19"></a>
+
+![20220115_114142](https://user-images.githubusercontent.com/71856519/149625859-0a05adf7-c9b5-4f94-817f-119d592bcb6a.gif)
+
+* [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day19)
+* [Post no LinkedIn]()
