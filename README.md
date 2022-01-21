@@ -31,6 +31,7 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 * [Dia 17: Efeito de Digitação](#id17)
 * [Dia 18: Selfcare Website](#id18)
 * [Dia 19: Infinite Looping Animation](#id19)
+* [Dia 20: Título com efeito de preenchimento ao passar o mouse](#id20)
 
 
 ## Desafio dia 01 - Botão do instagram <a name="id01"></a> 
@@ -182,3 +183,10 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day19)
 * [Post no LinkedIn](https://www.linkedin.com/posts/ana-luisa-_css-github-animation-activity-6888129130148229120-GAXq)
+
+## Desafio dia 20 - Título com efeito de preenchimento ao passar o mouse<a name="id20"></a>
+
+![20220121_131616](https://user-images.githubusercontent.com/71856519/150562200-a7d297c3-f1fe-4c1f-976d-815528d9b795.gif)
+
+* [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day20)
+* [Post no LinkedIn]()
