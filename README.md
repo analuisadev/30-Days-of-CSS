@@ -33,6 +33,7 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 * [Dia 19: Infinite Looping Animation](#id19)
 * [Dia 20: Título com efeito de preenchimento ao passar o mouse](#id20)
 * [Dia 21: Menu Hambúrguer](#id21)
+* [Dia 22: Pré-loader Animado](#id22)
 
 
 ## Desafio dia 01 - Botão do instagram <a name="id01"></a> 
@@ -198,3 +199,12 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day21)
 * [Post no LinkedIn](https://www.linkedin.com/posts/ana-luisa-_github-css-menu-activity-6890708974719574016-ia7L)
+
+
+## Desafio dia 22 - Pré-Loader Animado<a name="id22"></a>
+
+![20220127_184000](https://user-images.githubusercontent.com/71856519/151448588-39aa2483-e817-4548-93d5-21a864c555cd.gif)
+
+* [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day22)
+* [Post no LinkedIn](https://www.linkedin.com/posts/ana-luisa-_github-html-css-activity-6892583621333450752-Q9u-)
+
