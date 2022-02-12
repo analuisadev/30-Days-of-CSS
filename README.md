@@ -35,7 +35,7 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 * [Dia 21: Menu Hambúrguer](#id21)
 * [Dia 22: Pré-loader Animado](#id22)
 * [Dia 23: Pulse](#id23)
-
+* [Dia 24: Hover Effect](#id24)
 
 ## Desafio dia 01 - Botão do instagram <a name="id01"></a> 
 
@@ -217,3 +217,12 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day23)
 * [Post no LinkedIn](https://www.linkedin.com/posts/ana-luisa-_github-html-css-activity-6894651809533628416-F6-0)
 * [Tutorial](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2005)
+
+
+## Desafio dia 24 - Hover Effect<a name="id24"></a>
+
+![20220212_165543](https://user-images.githubusercontent.com/71856519/153726447-66e09ad8-e9d0-46f1-af45-39312e69a134.gif)
+
+* [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day24)
+* [Post no LinkedIn]()
+
