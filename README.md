@@ -37,7 +37,7 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 * [Dia 23: Pulse](#id23)
 * [Dia 24: Hover Effect](#id24)
 * [Dia 25: Dark Login](#id25)
-* [Dia 26: Portfolio] (#id26)
+* [Dia 26: Portfolio](#id26)
 
 ## Desafio dia 01 - Botão do instagram <a name="id01"></a> 
 
