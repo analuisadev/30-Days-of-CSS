@@ -38,6 +38,7 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 * [Dia 24: Hover Effect](#id24)
 * [Dia 25: Dark Login](#id25)
 * [Dia 26: Portfolio](#id26)
+* [Dia 27: Loading...](#id27)
 
 ## Desafio dia 01 - Botão do instagram <a name="id01"></a> 
 
@@ -246,3 +247,15 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 
 
 ## Desafio dia 26 - Portfolio<a name="id26"></a>
+
+![179001648-67e75eaf-2e24-4795-b2c3-b684f879cd77](https://user-images.githubusercontent.com/71856519/179362274-8937f84d-2ac8-4174-897a-db417811ed8c.gif)
+
+* [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day26)
+* [Post no LinkedIn](https://www.linkedin.com/posts/ana-luisa-_html-css-javascript-activity-6953357020481638400-jIyw?utm_source=linkedin_share&utm_medium=member_desktop_web)
+
+## Desafio dia 27 - Loading...<a name="id27"></a>
+
+![20220716_123812](https://user-images.githubusercontent.com/71856519/179362024-bc371084-17a6-4c8e-adde-73033be1364a.gif)
+
+* [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day27)
+* [Post no LinkedIn](https://www.linkedin.com/posts/ana-luisa-_html-css-github-activity-6954102598840778752-lD3d?utm_source=linkedin_share&utm_medium=member_desktop_web)
