@@ -40,6 +40,7 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 * [Dia 26: Portfolio](#id26)
 * [Dia 27: Loading...](#id27)
 * [Dia 28: League Of Legends | Login Page](#id28)
+* [Dia 29: Flip Effect](#id29)
 
 ## Desafio dia 01 - Botão do instagram <a name="id01"></a> 
 
@@ -268,3 +269,10 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day28)
 * [Post no LinkedIn](https://www.linkedin.com/posts/ana-luisa-_css-html-github-activity-6955889654839558145-I0z4?utm_source=linkedin_share&utm_medium=member_desktop_web)
+
+## Desafio dia 29 - Flip Effect<a name="id29"></a>
+
+![20220722_144303](https://user-images.githubusercontent.com/71856519/180495607-326c794b-dd9c-4789-a5d7-074dbaa8d67e.gif)
+
+* [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day29)
+* [Post no LinkedIn]()
