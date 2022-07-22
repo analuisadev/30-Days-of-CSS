@@ -272,7 +272,7 @@ No desafio 30 Days Of CSS eu busco treinar e melhorar todos os dias os meus conh
 
 ## Desafio dia 29 - Flip Effect<a name="id29"></a>
 
-![20220722_144303](https://user-images.githubusercontent.com/71856519/180495607-326c794b-dd9c-4789-a5d7-074dbaa8d67e.gif)
+![20220722_145811](https://user-images.githubusercontent.com/71856519/180497220-75912c3c-c969-4080-865c-80ca340fa677.gif)
 
 * [Meu Código](https://github.com/analuisadev/30-Days-of-CSS/tree/main/30DaysOfCSS/day29)
 * [Post no LinkedIn]()
