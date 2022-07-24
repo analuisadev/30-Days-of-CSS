@@ -1,0 +1,164 @@
+$primary: #29184A;
+$secondary: #0EAFD2;
+$dark: #1E0F3C;
+$clear: #FFF;
+$padding: 20px;
+$font: Quicksand, Arial, sans-serif;
+
+
+@mixin text($font, $size, $align, $line, $color) {
+    font: $size $font;
+    text-align: $align;
+    line-height: $line;
+    color: $color;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../imagens/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+}
+
+
+.header {
+    width: 100%;
+    padding: $padding;
+    background-color: $primary;
+    & &__img {
+        width: 150px;
+    } & &__nav {
+        float: right;
+        margin-top: $padding;
+        ul {
+            list-style: none;
+            li {
+                display: inline-block;
+                padding: $padding;
+            }
+        }
+    }
+    & &__link {
+        color: $secondary;
+        font-size: 1.5em;
+        position: absolute;
+        transition: all 1s ease;
+        &:hover {
+            margin-top: -5px;
+            
+        }
+    }
+}
+
+.banner {
+    text-align: center;
+    h2 {
+        @include text($font,2em,center,40px,$secondary);
+    }
+    p {
+        @include text($font,1.2em,center,40px,$secondary);
+    }
+}
+
+.btn {
+    @include text($font, 1.5em, center, 30px, $primary);
+    background-color: $secondary;
+    text-decoration: none;
+    padding: $padding;
+    margin: 20px;
+    display: inline-block;
+    border-radius: 100px;
+    transition: all .5s ease;
+    &:hover {
+        background-color: $clear;
+    }
+}
+
+section {
+    padding: 50px 0;
+}
+
+.container {
+    width: 1000px;
+    margin: auto;
+}
+
+.author {
+    background: $dark;
+    & &__img {
+        width: 200px;
+        border-radius: 50%;
+        border: 10px solid $clear;
+        float: left;
+        margin: $padding;
+    }
+    h1 { 
+        @include text($font, 2em, center, 30px, $secondary);
+        font-weight: bold;
+    }
+    p {
+        @include text($font, 1.2em, justify, 30px, $clear);
+        margin: $padding;
+    }
+}
+
+.courses {
+    background-color: $secondary;
+    h1 {
+        @include text($font, 2em, center, 30px, $primary);
+        font-weight: bold;
+    }
+    p {
+        @include text($font, 1.2em, center, 30px, $clear);
+        margin: $padding;
+    }
+}
+
+.footer {
+    text-align: center;
+    padding: $padding;
+    p {
+        @include text($font, 1em, center, 30px, $clear);
+        
+    }
+
+    & &__img {
+        width: 100px;
+    }
+}
+
+
+@media (max-width: 912px) {
+    body {
+        padding-top: 120px;
+    }
+    .header {
+        position: fixed;
+        width: 100%;
+        box-sizing: border-box;
+        top: 0;
+
+    }
+    .container {
+        width: auto;
+        padding: 10px;
+    }
+    .banner {
+        img {
+            width: 80%;
+        }
+    }
+    .author {
+        &__img {
+            float: none;
+            width: 100%;
+            margin: 0 ;
+        }
+    }
+}

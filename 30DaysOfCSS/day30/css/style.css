@@ -1,0 +1,213 @@
+/* line 16, ../bootcamp - sass/pagina/scss/style.scss */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* line 22, ../bootcamp - sass/pagina/scss/style.scss */
+body {
+  background-image: url(../imagens/bg.jpg);
+  background-repeat: no-repeat;
+  background-position: fixed;
+  background-size: cover;
+}
+
+/* line 30, ../bootcamp - sass/pagina/scss/style.scss */
+.header {
+  width: 100%;
+  padding: 20px;
+  background-color: #29184A;
+}
+
+/* line 34, ../bootcamp - sass/pagina/scss/style.scss */
+.header .header__img {
+  width: 150px;
+}
+
+/* line 36, ../bootcamp - sass/pagina/scss/style.scss */
+.header .header__nav {
+  float: right;
+  margin-top: 20px;
+}
+
+/* line 39, ../bootcamp - sass/pagina/scss/style.scss */
+.header .header__nav ul {
+  list-style: none;
+}
+
+/* line 41, ../bootcamp - sass/pagina/scss/style.scss */
+.header .header__nav ul li {
+  display: inline-block;
+  padding: 20px;
+}
+
+/* line 47, ../bootcamp - sass/pagina/scss/style.scss */
+.header .header__link {
+  color: #0EAFD2;
+  font-size: 1.5em;
+  position: absolute;
+  transition: all 1s ease;
+}
+
+/* line 52, ../bootcamp - sass/pagina/scss/style.scss */
+.header .header__link:hover {
+  margin-top: -5px;
+}
+
+/* line 59, ../bootcamp - sass/pagina/scss/style.scss */
+.banner {
+  text-align: center;
+}
+
+/* line 61, ../bootcamp - sass/pagina/scss/style.scss */
+.banner h2 {
+  font: 2em Quicksand, Arial, sans-serif;
+  text-align: center;
+  line-height: 40px;
+  color: #0EAFD2;
+}
+
+/* line 64, ../bootcamp - sass/pagina/scss/style.scss */
+.banner p {
+  font: 1.2em Quicksand, Arial, sans-serif;
+  text-align: center;
+  line-height: 40px;
+  color: #0EAFD2;
+}
+
+/* line 69, ../bootcamp - sass/pagina/scss/style.scss */
+.btn {
+  font: 1.5em Quicksand, Arial, sans-serif;
+  text-align: center;
+  line-height: 30px;
+  color: #29184A;
+  background-color: #0EAFD2;
+  text-decoration: none;
+  padding: 20px;
+  margin: 20px;
+  display: inline-block;
+  border-radius: 100px;
+  transition: all .5s ease;
+}
+
+/* line 78, ../bootcamp - sass/pagina/scss/style.scss */
+.btn:hover {
+  background-color: #FFF;
+}
+
+/* line 83, ../bootcamp - sass/pagina/scss/style.scss */
+section {
+  padding: 50px 0;
+}
+
+/* line 87, ../bootcamp - sass/pagina/scss/style.scss */
+.container {
+  width: 1000px;
+  margin: auto;
+}
+
+/* line 92, ../bootcamp - sass/pagina/scss/style.scss */
+.author {
+  background: #1E0F3C;
+}
+
+/* line 94, ../bootcamp - sass/pagina/scss/style.scss */
+.author .author__img {
+  width: 200px;
+  border-radius: 50%;
+  border: 10px solid #FFF;
+  float: left;
+  margin: 20px;
+}
+
+/* line 101, ../bootcamp - sass/pagina/scss/style.scss */
+.author h1 {
+  font: 2em Quicksand, Arial, sans-serif;
+  text-align: center;
+  line-height: 30px;
+  color: #0EAFD2;
+  font-weight: bold;
+}
+
+/* line 105, ../bootcamp - sass/pagina/scss/style.scss */
+.author p {
+  font: 1.2em Quicksand, Arial, sans-serif;
+  text-align: justify;
+  line-height: 30px;
+  color: #FFF;
+  margin: 20px;
+}
+
+/* line 111, ../bootcamp - sass/pagina/scss/style.scss */
+.courses {
+  background-color: #0EAFD2;
+}
+
+/* line 113, ../bootcamp - sass/pagina/scss/style.scss */
+.courses h1 {
+  font: 2em Quicksand, Arial, sans-serif;
+  text-align: center;
+  line-height: 30px;
+  color: #29184A;
+  font-weight: bold;
+}
+
+/* line 117, ../bootcamp - sass/pagina/scss/style.scss */
+.courses p {
+  font: 1.2em Quicksand, Arial, sans-serif;
+  text-align: center;
+  line-height: 30px;
+  color: #FFF;
+  margin: 20px;
+}
+
+/* line 123, ../bootcamp - sass/pagina/scss/style.scss */
+.footer {
+  text-align: center;
+  padding: 20px;
+}
+
+/* line 126, ../bootcamp - sass/pagina/scss/style.scss */
+.footer p {
+  font: 1em Quicksand, Arial, sans-serif;
+  text-align: center;
+  line-height: 30px;
+  color: #FFF;
+}
+
+/* line 131, ../bootcamp - sass/pagina/scss/style.scss */
+.footer .footer__img {
+  width: 100px;
+}
+
+@media (max-width: 912px) {
+  /* line 138, ../bootcamp - sass/pagina/scss/style.scss */
+  body {
+    padding-top: 120px;
+  }
+  /* line 141, ../bootcamp - sass/pagina/scss/style.scss */
+  .header {
+    position: fixed;
+    width: 100%;
+    box-sizing: border-box;
+    top: 0;
+  }
+  /* line 148, ../bootcamp - sass/pagina/scss/style.scss */
+  .container {
+    width: auto;
+    padding: 10px;
+  }
+  /* line 153, ../bootcamp - sass/pagina/scss/style.scss */
+  .banner img {
+    width: 80%;
+  }
+  /* line 158, ../bootcamp - sass/pagina/scss/style.scss */
+  .author__img {
+    float: none;
+    width: 100%;
+    margin: 0;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
